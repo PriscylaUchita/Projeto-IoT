@@ -27,6 +27,8 @@ utilizando o servidor:
 http://www.mqtt-dashboard.com/
 
 ![image](https://user-images.githubusercontent.com/67690987/170807685-0f3c63af-e869-4c70-8d7b-437677b47d2b.png)
+![image](https://user-images.githubusercontent.com/67690987/170807720-791a713b-96d2-410b-b8d2-4780b47d7d43.png)
+
 
 
 
